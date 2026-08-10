@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey Everyone, I'm Arnav
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C896,100:00FF9C&height=180&section=header&text=Arnav&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Welcome+to+My+Cybersecurity+Lab;Cybersecurity+%7C+Pentesting+%7C+Security+Engineering;Learning+by+Building+and+Breaking" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Penetration+Testing+Enthusiast;Security+Engineering+Learner;Building+Practical+Security+Skills"/>
 
 </div>
 
@@ -10,52 +10,72 @@
 
 <table>
 <tr>
-<td width="35%">
+<td width="35%" valign="top">
 
 ## 👨‍💻 Profile
 
-<img src="https://github.com/yourusername.png" width="170"/>
+<img src="cat.png" width="220" style="border-radius:16px"/>
 
-### Arnav
+# Arnav
 
-🎓 **BTech-MTech CSE (Cybersecurity)**  
-🏛️ **National Forensic Sciences University (NFSU)**  
-🛡️ **Cybersecurity Student**  
+🎓 **BTech-MTech CSE (Cybersecurity)**
+
+🏛️ **National Forensic Sciences University (NFSU)**
+
+🛡️ **Cybersecurity Student**
+
 🎯 **Penetration Testing & Security Engineering**
 
-**Current Level**
+---
 
-`Beginner → Intermediate`
+### 📍 Current Status
 
-**Learning Style**
+```text
+████████░░ 80%
 
-- Practical Labs
-- CTFs
-- Scripting
-- Understanding *why* tools work
+Beginner → Intermediate
+```
+
+---
+
+### 🧠 Learning Style
+
+- 🧪 Practical Labs
+- 🏴 CTFs
+- 🐍 Python Scripting
+- 🔍 Understanding Why Tools Work
 
 </td>
 
-<td width="65%">
+<td width="65%" valign="top">
 
-## 💻 Welcome to My Cybersecurity Lab
+# 💻 Welcome to My Cybersecurity Lab
 
-<img align="right" width="180" src="cat.png"/>
+> **Learning by building, breaking, analyzing, and understanding systems.**
 
-I’m focused on building **strong cybersecurity fundamentals** through hands-on practice.
+I’m currently focused on developing **strong cybersecurity fundamentals** through practical, hands-on experience.
 
-- 🔍 Learning offensive and defensive security
-- 🌐 Exploring network & web security
-- ⚔️ Practicing enumeration and pentesting
-- 🐧 Working extensively with Linux
-- 🤖 Building security automation skills
-- 📚 Understanding security concepts deeply
+### What I’m Working On
 
-<br>
+- 🔎 Offensive & Defensive Security
+- 🌐 Network & Web Security
+- ⚔️ Enumeration & Pentesting
+- 🐧 Linux Security
+- 🤖 Security Automation
+- 📚 Cryptography & Log Analysis
 
-**Current Priority**
+---
 
-Building practical cybersecurity skills through labs, CTFs, and real-world workflows.
+### 🎯 Current Mission
+
+```bash
+$ goal --current
+
+> Build strong cybersecurity fundamentals
+> Master practical security tools
+> Solve CTFs consistently
+> Transition into Security Engineering
+```
 
 </td>
 </tr>
@@ -63,23 +83,43 @@ Building practical cybersecurity skills through labs, CTFs, and real-world workf
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 Cyber Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Cybersecurity Focus Matrix
 
 <table>
 <tr>
 <td width="50%">
 
-## 📈 GitHub Stats
+### 🔴 Offensive Security
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+- Penetration Testing
+- Enumeration
+- Web Security
+- Vulnerability Assessment
+- Linux Exploitation
 
 </td>
 
 <td width="50%">
 
-## 🔥 Streak
+### 🔵 Defensive Security
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+- Log Analysis
+- SIEM Fundamentals
+- IDS Concepts
+- Incident Response
+- Security Monitoring
 
 </td>
 </tr>
@@ -87,124 +127,67 @@ Building practical cybersecurity skills through labs, CTFs, and real-world workf
 
 ---
 
-# 🧠 Cybersecurity Roadmap
+# 🛠️ Security Arsenal
 
-```
-CYBERSECURITY
-├── Network Security
-├── Web Security
-├── Vulnerability Assessment
-├── Enumeration
-├── Penetration Testing Fundamentals
-├── Linux Security
-├── Security Automation
-├── Cryptography Fundamentals
-├── Hashing
-├── Log Analysis
-├── IDS / SIEM / DLP Fundamentals
-└── Incident Response Fundamentals
-```
-
----
-
-# 🛠️ Security Toolkit
-
-## Recon & Enumeration
+### Recon & Enumeration
 
 <p>
-<img src="https://img.shields.io/badge/Nmap-00FF9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gobuster-00FF9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Netcat-00FF9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Socat-00FF9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Netcat-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/Socat-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
 </p>
 
-## Web Security
+### Web Security
 
 <p>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PortSwigger_Academy-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PortSwigger-FF6B35?style=for-the-badge&logo=hackaday&logoColor=white"/>
 </p>
 
-## Analysis & Cryptography
+### Analysis & Cryptography
 
 <p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hashcat-7B68EE?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenSSL-2E8B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VeraCrypt-4B0082?style=for-the-badge"/>
 </p>
 
-## Practice Platforms
-
-<p>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge"/>
-</p>
-
 ---
 
-# 💻 Programming
+# 💻 Programming & Automation
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge"/>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,linux,git,github,vscode"/>
+
+</div>
 
 ---
 
 # 🐧 Systems & Environment
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Virtual_Machines-183A61?style=for-the-badge"/>
-</p>
-
----
-
-# ⚙️ Development
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLI-00FF9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge"/>
-</p>
-
----
-
-# 🗄️ Database
-
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge"/>
-</p>
-
----
-
-# 📈 Language Analytics
-
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+### Operating Systems
+
+- Linux
+- Kali Linux
+- macOS
 
 </td>
 
 <td width="50%">
 
-### 🎯 Focus Areas
+### Workflow
 
-- Python for automation
-- Bash scripting
-- Linux internals
-- Web security testing
-- Network analysis
-- Practical exploitation
+- Virtual Machines
+- Git & GitHub
+- CLI
+- Markdown
 
 </td>
 </tr>
@@ -212,26 +195,58 @@ CYBERSECURITY
 
 ---
 
-# 🎖️ Current Mission
+# 📈 Learning Progress
 
-> **Build a strong foundation first.**
+| Area | Progress |
+|------|----------|
+| Linux | 🟩🟩🟩🟩⬜ |
+| Networking | 🟩🟩🟩⬜⬜ |
+| Web Security | 🟩🟩🟩⬜⬜ |
+| Python Automation | 🟩🟩🟩🟩⬜ |
+| Penetration Testing | 🟩🟩⬜⬜⬜ |
+| Incident Response | 🟩🟩⬜⬜⬜ |
 
-My goal is to become a **hands-on cybersecurity professional** with practical experience in:
+---
 
-- Penetration Testing
-- Security Engineering
-- Vulnerability Assessment
-- Incident Response
-- Automation & Scripting
+# 🎯 Current Focus Areas
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────┐
+│            CURRENT LEARNING STACK           │
+├─────────────────────────────────────────────┤
+│ Python Security Automation                  │
+│ Linux Internals                             │
+│ Web Application Security                    │
+│ Network Enumeration                         │
+│ CTF Methodology                             │
+│ Practical Exploitation                      │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 🐱 Security Mascot
+
+<div align="center">
+
+<img src="cat.png" width="200"/>
+
+### *“Trust, but verify.”*
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🐱 “Hack responsibly, learn continuously.”
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=00ff9c&style=for-the-badge"/>
 
-<img src="cat.png" width="220"/>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Visitors&color=00ff9c&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Learning-00C896?style=for-the-badge"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:00C896,100:0D1117&height=120&section=footer"/>
